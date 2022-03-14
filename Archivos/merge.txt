@@ -1,3 +1,9 @@
+
 Mateo Cañavera Aluma.
 22 años.
 Este semestre estoy cursando las materias de programación y la programación orientada a objetos respresenta un "upgrade" en el entendimiento y desarrollo en este mundo del computo,así que,espero adquirir las habilidades básicas para poder mejorar.
+Se está haciendo todo este proceso directamente desde la pagina de Github y por esta ruta si es posible hacer este.
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+Para que no se sobreescriban datos en el mismo archivo y ocasione cambios en este y Git pueda seguir trabajando en orden.
+
